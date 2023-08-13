@@ -1,0 +1,29 @@
+main .containar .Connectwithme {
+    background: #fff;
+    /* flex: 0; */
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+      
+  }
+
+  main .containar .Connectwithme h2 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 1.3em;
+    font-weight: bolder;
+    border-bottom: 2px solid#ccc;
+    margin: 20px 35px;
+    padding-bottom: 15px;
+    color: #4AAAA5;
+  }
+
+  main .containar .Connectwithme .rb-div {
+    display: flex;
+    gap: 8px;
+    margin: 10px 25px 10px 35px;
+  }
+  
+  main .containar .Connectwithme .rb-div img {
+    width: 62px;
+    height: 62px;
+  }
